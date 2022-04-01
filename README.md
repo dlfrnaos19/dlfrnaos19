@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with any computer science intelligence
 - 💬 Ask me about ML, NLP.
 - 📫 How to reach me: dlfrnaos19@gmail.com
-- ⚡ Fun fact: Chaning life 
+- ⚡ Fun fact: Changing life 
