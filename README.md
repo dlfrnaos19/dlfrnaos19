@@ -8,3 +8,4 @@
 - ⚡ Fun fact: Changing life.
 - 🎓 Aiffel Busan 1st student
 - 🏢 Working in Ailys Frontier NLP Engineer
+- 🥰 contributing to Huggingface course now
