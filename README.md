@@ -5,4 +5,6 @@
 - 🤔 I’m looking for help with any computer science intelligence
 - 💬 Ask me about ML, NLP.
 - 📫 How to reach me: dlfrnaos19@gmail.com
-- ⚡ Fun fact: Changing life 
+- ⚡ Fun fact: Changing life.
+- 🎓 Aiffel Busan 1st student
+- 🏢 Working in Ailys Frontier NLP Engineer
